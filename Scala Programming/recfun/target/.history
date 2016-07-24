@@ -1,0 +1,10 @@
+Main
+recfun
+import recfun._
+testOnly recfun.PascalSuite
+test
+import recfun._
+import recfun.Main._
+console
+test
+submit aneeshakaushal1992@gmail.com nfydKRuhVXVvUqW2
